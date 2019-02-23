@@ -5,8 +5,6 @@ proxypool2 eth-us-west1.nanopool.org:9999
 globalminer claymore
 flags --cl-global-work 8192 --farm-recheck 250
 
-globalpowertune 3
-
 loc 4fe565 JoeyLi
 
 #Cor Clock Speed
@@ -19,3 +17,4 @@ vlt 4fe565 900 900 900 900 900 900 900 900 900 900 900 900 900
 #sel 86b4e3 1 2 3 4 5 6 7
 #VRAM Voltage
 #vddci 86b4e3 950 950 950 950 950 950
+#globalpowertune 3
