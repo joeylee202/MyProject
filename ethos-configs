@@ -1,7 +1,7 @@
 stratumproxy enabled
 proxywallet 0x6993b4d9576A9Ca35CBA1F68a5BA733AC54B5cF1
 proxypool1 eth-us-east1.nanopool.org:9999
-proxypool2 eth-us-east1.nanopool.org:9999
+proxypool2 eth-us-west1.nanopool.org:9999
 flags --cl-global-work 8192 --farm-recheck 250
 
 globalpowertune 3
