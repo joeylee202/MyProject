@@ -7,7 +7,7 @@ flags --cl-global-work 8192 --farm-recheck 250
 
 globalpowertune 3
 
-loc 86b4e9 BackRack
+loc 4fe565 JoeyLi
 
 #Cor Clock Speed
 cor 4fe565 1050 1050 1050 1050 1050 1050 1050 1050 1050 1050 1050 1050 1050
